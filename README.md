@@ -1,5 +1,4 @@
 # redis-embedded-clj
-[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.bigsy/redis-embedded-clj.svg)](https://clojars.org/org.clojars.bigsy/redis-embedded-clj)
 
 Embedded redis for clojure - based on https://github.com/signalapp/embedded-redis
 
