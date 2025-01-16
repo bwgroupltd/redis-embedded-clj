@@ -1,5 +1,6 @@
 (defproject audiogum/redis-embedded-clj "0.0.5-SNAPSHOT"
   :description "Embedded redis for clojure"
+  :url "https://github.com/bwgroupltd/redis-embedded-clj"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.12.0"]
